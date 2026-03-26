@@ -41,11 +41,6 @@ https://github.com/user-attachments/assets/3a0febe2-b4f4-4c6f-b021-0c359cfde688
 </details>
 
 ---
-
-## 🛠️ Tech Stack
-* *(Zde doplň technologie, ve kterých jsi to napsal - např. JavaScript, React, nebo Unity?)*
-* Graphics & Animations: *(Např. Photoshop, Blender...)*
-
 ---
 ---
 
